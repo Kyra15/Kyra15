@@ -1,7 +1,7 @@
 ## Hello!
 
 🏫 Computer Science Student @ American Heritage Broward<br>
-💾 Interested in ML/AI<br>
+💾 Interested in ML/AI and Cyber<br>
 
 
 
