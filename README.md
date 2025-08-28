@@ -2,7 +2,7 @@
 
 🏫 Computer Science Student @ American Heritage Broward<br>
 💾 Interested in ML/AI and Cyber<br>
-
+🧩 Astronomy and cryptography hobbyist<br>
 
 
 ## 🌐 Socials:
