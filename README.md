@@ -1,9 +1,8 @@
 ## Hello!
 
-My name is Kyra, I'm a:
-
+My name is Kyra, I'm a:<br>
 🏫 Computer Science Student @ American Heritage Broward<br>
-💾 Interested in ML/AI and Cybersecurity<br>
+💾 Interested in ML/AI and game development <br>
 🧩 Astronomy and cryptography hobbyist<br>
 
 
