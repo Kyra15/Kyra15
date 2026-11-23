@@ -1,4 +1,4 @@
-## Hello!
+# Hello!
 
 My name is Kyra, I'm a:<br>
 🏫 Computer Science Student @ American Heritage Broward<br>
