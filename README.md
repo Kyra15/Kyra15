@@ -19,7 +19,7 @@ My name is Kyra, I'm a:<br>
 ---
 Some ML/AI projects coded as part of American Heritage’s ML Course. All projects have an in-depth programming pipeline and projects description as part of their jupyter notebooks. 
 
-### [Game Development Portfolio](https://github.com/Kyra15/GameDevPortfolio)"
+### [Game Development Portfolio](https://github.com/Kyra15/GameDevPortfolio)
 ---
 A collection of the video games I’ve coded outside of school in my free time. [Live Link](https://kyra15.github.io/GameDevPortfolio/)
 
