@@ -15,23 +15,25 @@ My name is Kyra, I'm a:<br>
 
 ## 📌 Featured Projects
 
-<div align="center">
-  <a href="[Machine Learning at American Heritage Schools](https://github.com/Kyra15/MachineLearningAHS)">
-    <!-- <img src="https://vercel.app" alt="Project 1" /> -->
-  </a>
-  <a href="[Game Development Portfolio](https://github.com/Kyra15/GameDevPortfolio)">
-    <img src="https://kyra15.github.io/GameDevPortfolio/" alt="Project 2" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Project 3" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Project 4" />
-  </a>
-</div>
+[Machine Learning Projects](https://github.com/Kyra15/MachineLearningAHS)
+---
+Some ML/AI projects coded as part of American Heritage’s ML Course. All projects have an in-depth programming pipeline and projects description as part of their jupyter notebooks. 
+
+[Game Development Portfolio](https://github.com/Kyra15/GameDevPortfolio)"
+---
+A collection of the video games I’ve coded outside of school in my free time. [Live Link](https://kyra15.github.io/GameDevPortfolio/)
+
+[LabDog](https://github.com/Kyra15/LabDog)
+---
+A mobile app created to explain medical reports in plain language for everyday citizens who may not understand their reports immediately. Created outside of school with a classmate and submitted to the Congressional App Challenge under district FL-23.
+
+[On the Search for a New Earth](https://github.com/Kyra15/OnTheSearchForANewEarth)
+---
+Coded as part of UC Berkeley’s Python in Astrophysics Research (Astro 9: Lecture 2). A Streamlit-hosted website for determining a planet’s habitability based on lightcurve fitting and NASA Kepler data. [Live Link](https://astro9exoplanets.streamlit.app/)
+
+[Attendance Counter](https://github.com/Kyra15/AttendanceCounter)
+---
+Website for counting the number of absences students at American Heritage have via OCR and computer vision. [Live Link](https://ahs-attendance-counter.vercel.app/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kyra15&icon=0&color=0)](https://visitcount.itsvg.in)
