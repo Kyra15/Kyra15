@@ -25,7 +25,7 @@ A collection of the video games I’ve coded outside of school in my free time. 
 
 ### [LabDog](https://github.com/Kyra15/LabDog)
 ---
-A mobile app created to explain medical reports in plain language for everyday citizens who may not understand their reports immediately. Created outside of school with a classmate and submitted to the Congressional App Challenge under district FL-23.
+A mobile app created to explain medical reports in plain language for everyday citizens who may not understand their reports immediately. Created outside of school with a classmate and submitted to the Congressional App Challenge under district FL-23. [Youtube Demo](https://www.youtube.com/watch?v=gvCrydt52p0)
 
 ### [On the Search for a New Earth](https://github.com/Kyra15/OnTheSearchForANewEarth)
 ---
